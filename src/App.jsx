@@ -1,4 +1,5 @@
 import { useState } from "react";
+// i am just checking if the changes are being reflected in the github repo
 const messages = [
 	"Learn React ⚛️",
 	"Apply for jobs 💼",
